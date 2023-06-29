@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "myStore Project", "myStore Project\myStore Project.rptproj", "{F482A014-42DE-4DF3-AE0A-B3CA91D9AA45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F482A014-42DE-4DF3-AE0A-B3CA91D9AA45}.Debug|Default.ActiveCfg = Debug
+		{F482A014-42DE-4DF3-AE0A-B3CA91D9AA45}.Debug|Default.Build.0 = Debug
+		{F482A014-42DE-4DF3-AE0A-B3CA91D9AA45}.Debug|Default.Deploy.0 = Debug
+		{F482A014-42DE-4DF3-AE0A-B3CA91D9AA45}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{F482A014-42DE-4DF3-AE0A-B3CA91D9AA45}.DebugLocal|Default.Build.0 = DebugLocal
+		{F482A014-42DE-4DF3-AE0A-B3CA91D9AA45}.Release|Default.ActiveCfg = Release
+		{F482A014-42DE-4DF3-AE0A-B3CA91D9AA45}.Release|Default.Build.0 = Release
+		{F482A014-42DE-4DF3-AE0A-B3CA91D9AA45}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27A5D1C3-0881-495E-A613-9D2122C6A78A}
+	EndGlobalSection
+EndGlobal
